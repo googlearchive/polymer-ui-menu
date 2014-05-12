@@ -2,8 +2,9 @@
   "name": "polymer-ui-menu",
   "private": true,
   "dependencies": {
-    "polymer": "Polymer/polymer#master",
-    "polymer-selector": "Polymer/polymer-selector#master",
-    "polymer-ui-theme-aware": "Polymer/polymer-ui-theme-aware#master"
-  }
+    "polymer": "Polymer/polymer#0.2.4",
+    "polymer-selector": "Polymer/polymer-selector#0.2.4",
+    "polymer-ui-theme-aware": "Polymer/polymer-ui-theme-aware#0.2.4"
+  },
+  "version": "0.2.4"
 }
